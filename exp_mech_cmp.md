@@ -24,6 +24,13 @@ There would some way for buyers/sellers to (a) make offers (in the decentralized
 Subjects 
 We would recruit participants to be buyers or sellers, who in turn would log into our site with their oDesk accounts. This would generate a small oDesk-based profile. 
 
+## Key Challenges 
+
+1. Statistical power---experimental units are _marketplaces_, not even individual teams. Some up-front power calculations will be essential. My guess is that on some relatively noisy outcome---like match quality as measured by work product---we will not have much power. Imprecisely estimated zeros are death for a project. We will have to think about what first order things will be affected meaningfully by randomizing mechanisms and then focus on designs that can best illuminate those effects.     
+1. Logistics---running a very large experiment is just logistically challenging in terms of coordinating with workers, sending annoucements, checking the data etc. I would strongly urge us to take it in steps, with many pilots before the "real" experiments begin.  
+1. Designing incentives and information structure. In my experience, running employer-as-experimenter experiments or experiments where the judgement of the experimenter has some import (e.g., deciding who gets paid) are often dicey.  We want to avoid situations where their beliefs about us matter. 
+1. Running enough iterations so that any game is being played by savvy buyers and sellers who are not longer making mistakes because they do not understand the game. 
+
 ## Tasks 
 Buyers and sellers would be pairing up to complete some task. 
 The task would, ideally, be something that was (a) a real task in the marketplace (b) has a more-or-less objective measure of quality. It should also be monitorable in terms of time spent. 
